@@ -28,6 +28,18 @@ hamburger-menu/
 - **JavaScript**: logic and animations
 - **CSS**: styling and transitions
 
+---
+
 ### 💡 What I Learned
 
+- Learned how a simple ``useState`` boolean can completely change a component by switching between open and closed states
+- Got more comfortable using ``map()`` to create repeated elements instead of writing the same code multiple times
+- Better understood the value of splitting components into separate files to keep projects organized and easier to maintain
+- Realized that most animatons come from CSS transitions, while React mainly handles the state changes
+- Practiced passing ``props`` between components and learned how parent components can manage state for their children
+
+---
+
 ### 🎬 Preview
+
+https://github.com/user-attachments/assets/bcb0bef3-b25a-45fa-8e6e-d3fe0362edc7
