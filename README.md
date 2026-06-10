@@ -1,7 +1,7 @@
 # Hamburger-Menu
 
 ### ✨ About
-Three hamburger menus, one satisfying click. I built this to understand how a simple icon can carry so much personality. Same concept, three completely different feels. turns out the smallest interactions are the most fun to get right.
+Three hamburger menus, one satisfying click. I built this to understand how a simple icon can carry so much personality. Same concept, three completely different feels. Turns out the smallest interactions are the most fun to get right.
 
 ---
 
